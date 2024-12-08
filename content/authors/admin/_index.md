@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Immanuel Ampomah Mensah
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Immanuel
+last_name: Ampomah Mensah
 
 # Status emoji
 status:
@@ -20,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ampomah.i@northeastern.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
