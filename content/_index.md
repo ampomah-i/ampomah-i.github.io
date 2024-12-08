@@ -30,16 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My first interest is in planning and controls, specifically high-dimensional optimization and certifiably safe-by-construction planners for autonomous systems and multi-agent coordination. My second interest involves the design of nontraditional systems, such as origami-inspired soft robots, integrating their unique adaptability with the precision of traditional control systems, particularly for resource-constrained applications.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
