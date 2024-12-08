@@ -21,8 +21,10 @@ role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: PARSES Lab
+    url: https://parses.sites.northeastern.edu/
+  - name: NEURAL Lab
+    url: https://neural.lab.northeastern.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -31,17 +33,13 @@ profiles:
     url: 'ampomah.i@northeastern.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/immanuel_io
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ampomah-i
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/immanuelampomah/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=CM2JWYIAAAAJ&hl=en
 
 interests:
   - Artificial Intelligence
