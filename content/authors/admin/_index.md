@@ -1,10 +1,13 @@
 ---
 # Display name
-title: Immanuel Ampomah Mensah
+title: 吳健雄
+
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Immanuel
-last_name: Ampomah Mensah
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -17,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,29 +31,31 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ampomah.i@northeatern.edu'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/immanuel_io
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/ampomah-i
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/immanuelampomah/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=CM2JWYIAAAAJ&hl=en
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Robotics
-  - Autonomy
-  - Controls
-  - Planning
-  - Soft Robotics
-  - Optimization
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Student - Electrical Engineering
-    institution: Northeastern University
-    date_start: 2024-09-01
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
