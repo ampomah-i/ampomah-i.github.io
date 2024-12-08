@@ -24,7 +24,7 @@ organizations:
   - name: Northeastern University
     url: https://parses.sites.northeastern.edu/
   - name: PARSES Lab
-      url: https://parses.sites.northeastern.edu/
+    url: https://parses.sites.northeastern.edu/
   - name: NEURAL Lab
     url: https://neural.lab.northeastern.edu/
 
