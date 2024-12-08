@@ -163,6 +163,6 @@ awards:
 ---
 
 ## About Me
-Welcome to my website! I am a first-year Ph.D. student in Electrical at Northeastern University, co-advised by Professors Kris Dorsey and David Rosen.My first interest is in planning and controls, specifically high-dimensional optimization and certifiably safe-by-construction planners for autonomous systems and multi-agent coordination. My second interest involves the design of nontraditional systems, such as origami-inspired soft robots, integrating their unique adaptability with the precision of traditional control systems, particularly for resource-constrained applications.
+Welcome to my website! I am a first-year Ph.D. student in Electrical at Northeastern University, co-advised by Professors Kris Dorsey and David Rosen. My first research focuses on planning and controls for origami-inspired soft robots, optimization and certifiably safe-by-construction planners for autonomous systems and multi-agent coordination.
 
 Please reach out to collaborate 😃
