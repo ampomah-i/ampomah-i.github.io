@@ -21,8 +21,10 @@ role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: PARSES Lab
+  - name: Northeastern University
     url: https://parses.sites.northeastern.edu/
+  - name: PARSES Lab
+      url: https://parses.sites.northeastern.edu/
   - name: NEURAL Lab
     url: https://neural.lab.northeastern.edu/
 
@@ -30,7 +32,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ampomah.i@northeastern.edu'
+    url: ampomah.i@northeastern.edu
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/immanuel_io
@@ -42,13 +44,15 @@ profiles:
     url: https://scholar.google.com/citations?user=CM2JWYIAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Autonomy
+  - Optimization
+  - Planning
+  - Controls
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Student - Electrical Engineering
+    institution: Northeastern University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
