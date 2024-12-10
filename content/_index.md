@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "Immanuel"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -48,7 +48,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   # - block: collection
   #   content:
   #     title: Recent Publications
