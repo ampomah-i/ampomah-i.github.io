@@ -30,14 +30,14 @@ featured: true
 links:
 - name: Custom Link
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11148277/
-url_pdf: https://arxiv.org/pdf/2401.04650
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_pdf: ''
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
