@@ -1,13 +1,12 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Autonomus Drone Racing
+date: 2024-06-26
+external_link: https://github.com/ampomah-i/vanguard_drone_autonomy_ws
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Drones
+  - Autonomy
+  - ROS2
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+This project is designed to implement and test drone control and localization functionalities using ROS 2 and PX4 using a Raspberry Pi 4 companion computer. This includes path following, AR tag detection, and position estimation.
 <!--more-->
