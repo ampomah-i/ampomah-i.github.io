@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: My courses
+summary: MIT BeaverWorks Summer Institute
 type: landing
 
 cascade:
@@ -21,3 +21,6 @@ sections:
       view: article-grid
       columns: 2
 ---
+
+I am the lead instructor of the MIT Beaverworks Summer Institute Autonomous Drone Racing Course
+<!--more-->
