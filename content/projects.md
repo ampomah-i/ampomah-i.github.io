@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: Here are a selection personal and class projects from my Master's.
+      title: 
+      text: 
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---
