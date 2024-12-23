@@ -1,6 +1,6 @@
 ---
 title: Heterogenous MAPD with Temporal Logic Encoding
-date: 2024-4-10
+date: 2024-04-10
 external_link: https://github.com/ampomah-i/formal_methods_final_project
 tags:
   - Formal Methods
