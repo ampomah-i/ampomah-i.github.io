@@ -1,13 +1,14 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Beaver Works Summer Institute - MIT
+summary: Lead Instructor for the Autonomous Drone Racing Program
+external_link: https://bwsi-uav.github.io/website/Syllabus.html
+date: 2024-06-01
 type: docs
 math: false
 tags:
-  - Python
+  - Drone Racing
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.

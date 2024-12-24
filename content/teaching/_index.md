@@ -19,8 +19,5 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 1
 ---
-
-I am the lead instructor of the MIT Beaverworks Summer Institute Autonomous Drone Racing Course
-<!--more-->
