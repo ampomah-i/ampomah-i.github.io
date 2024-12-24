@@ -10,5 +10,5 @@ gif:
   preview_only: false
 ---
 
- Introduces a safe motion planning framework for origami-inspired continuum robots, utilizing Constant Curvature modeling and the CIDGIKc approach to enable efficient inverse kinematics and bounded telescoping under uncertainty, ensuring obstacle avoidance and safety through radial uncertainty modeling and validated by simulation.
+ Introduces a safe motion planning framework for origami-inspired continuum robots, utilizing Constant Curvature modeling and the CIDGIKc approach to enable efficient inverse kinematics and bounded telescoping under uncertainty.
 <!--more-->
